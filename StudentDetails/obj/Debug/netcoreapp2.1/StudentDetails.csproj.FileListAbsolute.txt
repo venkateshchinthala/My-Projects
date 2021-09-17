@@ -1,0 +1,16 @@
+C:\Users\al2982\source\repos\StudentDetails\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\al2982\source\repos\StudentDetails\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\al2982\source\repos\StudentDetails\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\al2982\source\repos\StudentDetails\bin\Debug\netcoreapp2.1\StudentDetails.deps.json
+C:\Users\al2982\source\repos\StudentDetails\bin\Debug\netcoreapp2.1\StudentDetails.runtimeconfig.json
+C:\Users\al2982\source\repos\StudentDetails\bin\Debug\netcoreapp2.1\StudentDetails.runtimeconfig.dev.json
+C:\Users\al2982\source\repos\StudentDetails\bin\Debug\netcoreapp2.1\StudentDetails.dll
+C:\Users\al2982\source\repos\StudentDetails\obj\Debug\netcoreapp2.1\StudentDetails.RazorAssemblyInfo.cache
+C:\Users\al2982\source\repos\StudentDetails\obj\Debug\netcoreapp2.1\StudentDetails.RazorAssemblyInfo.cs
+C:\Users\al2982\source\repos\StudentDetails\obj\Debug\netcoreapp2.1\StudentDetails.AssemblyInfoInputs.cache
+C:\Users\al2982\source\repos\StudentDetails\obj\Debug\netcoreapp2.1\StudentDetails.AssemblyInfo.cs
+C:\Users\al2982\source\repos\StudentDetails\obj\Debug\netcoreapp2.1\StudentDetails.RazorTargetAssemblyInfo.cache
+C:\Users\al2982\source\repos\StudentDetails\bin\Debug\netcoreapp2.1\StudentDetails.pdb
+C:\Users\al2982\source\repos\StudentDetails\obj\Debug\netcoreapp2.1\StudentDetails.dll
+C:\Users\al2982\source\repos\StudentDetails\obj\Debug\netcoreapp2.1\StudentDetails.pdb
+C:\Users\al2982\source\repos\StudentDetails\obj\Debug\netcoreapp2.1\StudentDetails.csprojAssemblyReference.cache
